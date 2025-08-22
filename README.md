@@ -33,7 +33,7 @@ Unix/Linux terminal (works best on Linux/MacOS; Windows may need tweaks)
 
 Clone the repo
 
-git clone https://github.com/<your-username>/snake-game-c.git
+git clone https://github.com/rohitupadhhyay/snake-game-c.git
 cd snake-game-c
 
 
